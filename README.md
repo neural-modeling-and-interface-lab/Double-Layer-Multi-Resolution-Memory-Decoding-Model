@@ -6,8 +6,11 @@ To reproduce the results and plots in the paper, start from the script named "Sy
 To startover with simulating new synthetic data, start from the script named "Synthetic_1_*_.m". 
 
 The folder named "Results" is for storing all model output files.
+
 The folder named "Synthetic_Input" is for storing all model input files.
+
 The folder named "toolbox" contains all necessary MATLAB function script for running the entire memory decoding model.
+
 
 In each folder, there is a sub-folder named "Paper Referenced".  It contains the input-output data we used in the manuscript of NECO-D-21-00056. 
 
