@@ -1,5 +1,6 @@
 # Double-Layer-Multi-Resolution-Memory-Decoding-Model
 For the publication of NECO-D-21-00056
+
 Author: Xiwei She
 
 To reproduce the results and plots in the paper, start from the script named "Synthetic_3_runningScript.m" to run the corresponding cases using the proposed memory decoding model.  
