@@ -1,3 +1,4 @@
-This folder is for saving all output files of the case "Decoding two-neuron patterns" generated from the modeling part.
+This folder is for saving all output files of the case "Decoding two-neuron patterns" generated from the modeling part. (i.e., "Synthetic case #3 CN&CS" in Synthetic_3_runningScript.m)
 
-To visualize plots (Fig. 7) in the manuscript directly, copy result files from the folder "Paper Referenced".
+
+Model's output files are too big to upload onto GitHub for reference.  Contact the author for referencing results if necessary.
