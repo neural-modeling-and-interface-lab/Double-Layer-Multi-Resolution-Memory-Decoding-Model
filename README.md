@@ -1,6 +1,8 @@
 # Double-Layer-Multi-Resolution-Memory-Decoding-Model
 For the publication of NECO-D-21-00056
 
+Please cite: She, Xiwei, Theodore W. Berger, and Dong Song. "A Double-Layer Multi-Resolution Classification Model for Decoding Spatiotemporal Patterns of Spikes With Small Sample Size." Neural Computation 34.1 (2021): 219-254.
+
 Author: Xiwei She
 
 To reproduce the results and plots in the paper, start from the script named "Synthetic_3_runningScript.m" to run the corresponding cases using the proposed memory decoding model.  
